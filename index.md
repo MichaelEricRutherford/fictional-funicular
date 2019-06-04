@@ -12,3 +12,5 @@ I am adding ANOTHER line on line 10 again.
 Here is a line to test the text editor revert. 
 
 Let's try changing both files and the committing. 
+
+Now we are collaborating. Making a test change to the index file. 
