@@ -9,4 +9,4 @@ This is a new line that I do not want.
 
 I am adding ANOTHER line on line 10 again. 
 
-Let's try again...!
+Here is a line to test the text editor revert. 
